@@ -1,2 +1,4 @@
 myvenv
 cmd.docx
+*.pyc
+db.sqlite3
